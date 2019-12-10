@@ -6,7 +6,6 @@
  * Modifications: Modified project name.
  *                Removed unnecessary namespaces. 
  *                Modified variables' names for readability.
- * Student: Hyunhee Cho
  */
 
 using System;
