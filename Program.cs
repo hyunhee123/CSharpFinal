@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace CSharpFinal
 {
     class Program
@@ -7,6 +8,8 @@ namespace CSharpFinal
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            BinarySearch nio = new BinarySearch();
+            
         }
     }
 }
