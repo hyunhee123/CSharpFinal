@@ -30,8 +30,8 @@ namespace Polymorphism
             employees[0].LastName = "Bahrt";
 
             employees[1] = new PartTimeEmployee();
-            employees[1].FirstName = "Ted";
-            employees[1].LastName = "Kim";
+            employees[1].FirstName = "Hyunhee";
+            employees[1].LastName = "Cho";
 
             employees[2] = new TemporaryEmployee();
             employees[2].FirstName = "Snoop";
