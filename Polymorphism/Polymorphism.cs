@@ -110,7 +110,7 @@ namespace Polymorphism
 
 /* This code produces the following results:
 Dan Bahrt Full Time
-Ted Kim Part Time
+Hyunhee Cho Part Time
 Snoop Dogg base default
 John Doe base default
 FN LN base default

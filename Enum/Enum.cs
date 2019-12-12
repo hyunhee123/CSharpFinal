@@ -121,5 +121,5 @@ Valid input.
 Tue
 Restart? (y/n)
 >n
-Press any key to continue...
+Press any key to continue....
  */

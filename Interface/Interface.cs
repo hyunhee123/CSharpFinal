@@ -95,5 +95,5 @@ namespace Interface
 
 /* This code produces the following results:
 My Point: x=2, y=3
-Press any key to continue...
+Press any key to continue....
  */

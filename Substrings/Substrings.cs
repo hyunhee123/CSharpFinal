@@ -64,5 +64,5 @@ namespace Substring
 /* This code produces the following results:
 Substring: 37.79 ns
 Char access: 3.58 ns
-Press any key to continue...
+Press any key to continue....
  */

@@ -48,5 +48,5 @@ namespace DecimalToBinary
 /* This code produces the following results:
 Enter a Number : 128
 The Binary format for given number is 10000000
-Press any key to continue...
+Press any key to continue....
  */

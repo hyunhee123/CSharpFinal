@@ -79,5 +79,5 @@ Enter a Number :
 Sum of Digits of the Number : 6
 Restart? (y/n)
 >n
-Press any key to continue...
+Press any key to continue....
  */

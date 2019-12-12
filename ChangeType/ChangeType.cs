@@ -28,5 +28,5 @@ public class ChangeTypeTest
 /* This code produces the following results:
 The double value 30.875 when converted to an int becomse 31
 The string value 11/07/88 when converted to a Date becomes 11/7/1988 12:00:00 AM
-Press any key to continue...
+Press any key to continue....
 */
